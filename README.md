@@ -98,6 +98,6 @@ To use the `RSA` class as a module, you can straightly import the script as a mo
 
 
 # TODO
-- [] Add persistant storage.
-- [] Maybe add a better interface.
-- [] Ability to export and import key pairs in file storage.
+- [ ] Add persistant storage.
+- [ ] Maybe add a better interface.
+- [ ] Ability to export and import key pairs in file storage.
